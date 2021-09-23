@@ -8,7 +8,7 @@ node{
 			echo "Running on Stage#0"
 		}
 		else{
-			build "pipelinedemo"
+			build "firstpipeline"
 			echo "Running on Stage#1"
 		}
 	}
